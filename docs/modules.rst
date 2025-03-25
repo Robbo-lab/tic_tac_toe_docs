@@ -6,3 +6,4 @@ activities
 
    example
    tic_tac_toe
+   task_list
